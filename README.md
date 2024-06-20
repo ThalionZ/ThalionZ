@@ -2,13 +2,11 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Passionate about technology and innovation, I seek to apply my experience in systems development, data analysis, and project management to drive the growth and success of your company. With a proven track record of leadership in strategic projects and continuous improvement, I am prepared to contribute valuable insights and effective solutions that enhance organizational performance and competitiveness.
-
-</p>&nbsp;
+<p align="center">Passionate about technology and innovation, I seek to apply my experience in systems development, data analysis, and project management to drive the growth and success of your company. With a proven track record of leadership in strategic projects and continuous improvement, I am prepared to contribute valuable insights and effective solutions that enhance organizational performance and competitiveness. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-T.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=thalionz&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
