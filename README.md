@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/ThalionZ/thalionz/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/ThalionZ/thalionZ/blob/a407416071182294ba47f14402452edb0c8baf15/v2git.analytics.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
